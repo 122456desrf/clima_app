@@ -15,3 +15,8 @@ App en Flutter que muestra el clima actual con la API de OpenWeatherMap.
 
 ## Estructura
 models/ · services/ · screens/ · widgets/ · config/
+
+## Evidencia del funcionamiento
+<img src = "screenshoots/CA-1.jpeg" width = "250">
+<img src = "screenshoots/CA-2.jpeg" width = "250">
+<img src = "screenshoots/CA-3.jpeg" width = "250">
